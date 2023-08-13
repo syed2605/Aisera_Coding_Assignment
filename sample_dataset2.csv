@@ -1,0 +1,6 @@
+"timestamp, userID, taskID, eventType"
+"1625234567, U01, T01, Task Started"
+"1625234575, U01, T01, Task Stopped"
+"1625234600, U01, T02, Task Started"
+"1625234700, U01, T03, Task Started"
+"1625234850, U01, T04, Task Completed"

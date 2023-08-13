@@ -1,0 +1,5 @@
+User ID,	Task ID,	Start Time,	Stop Time,	Time Spent for task (seconds),	Remarks
+ U01- T01,	Fri Jul 02 2021 19:32:47 GMT+0530 (India Standard Time),	Fri Jul 02 2021 19:32:55 GMT+0530 (India Standard Time),	8,	No remarks
+ U01- T02,	Fri Jul 02 2021 19:33:20 GMT+0530 (India Standard Time),	Fri Jul 02 2021 19:35:00 GMT+0530 (India Standard Time),	100,	Task Stop event not found so taken next task start as stop time
+ U01- T03,	Fri Jul 02 2021 19:35:00 GMT+0530 (India Standard Time),	Fri Jul 02 2021 19:36:15 GMT+0530 (India Standard Time),	75,	Average Duration for Tasks taken due to Missing prsent task end time and this next task start time
+ U01- T04,	Fri Jul 02 2021 19:36:15 GMT+0530 (India Standard Time),	Fri Jul 02 2021 19:37:30 GMT+0530 (India Standard Time),	75,	Average Duration for Tasks taken due to Missing previous task end time and this task start time
